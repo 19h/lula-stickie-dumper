@@ -1,0 +1,16 @@
+[package]
+name = "lula-sticky-dumper"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.66"
+chrono = "0.4.22"
+codepage = "0.1.1"
+encoding_rs = "0.8.31"
+lazy_static = "1.4.0"
+log = "0.4.17"
+rtf-grimoire = "0.1.1"
+walkdir = "2.3.2"
